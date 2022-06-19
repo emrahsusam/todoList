@@ -22,5 +22,5 @@ In this project, you'll learn:
 
 ### View Project
 ---
-[Live Demo](https://emrahsusam.github.io/Hello-Clock/) of this project for review.
+[Live Demo](https://emrahsusam.github.io/todoList/) of this project for review.
 
